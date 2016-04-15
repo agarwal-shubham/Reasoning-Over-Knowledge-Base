@@ -16,3 +16,9 @@ The NTN replaces a standard linear neural network layer with a bilinear tensor l
 - Experiments are conducted on both WordNet and FreeBase to predict whether some relations hold using other facts in the database. Our goal is to predict correct facts in the form of relations (e1 , R, e2 ) in the testing data. This could be seen as answering questions such as Does a dog have a tail?, using the scores g(dog, has part, tail) computed by the various models.
 - We use the development set to find a threshold TR for each relation such that if g(e1 , R, e2 ) ≥ TR , the relation (e1 , R, e2 ) holds, otherwise it does not hold.
 The final accuracy is based on how many triplets are classified correctly. 
+For results and stepwise processing follow the links below:-
+
+- [Presentation link]: http://www.slideshare.net/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302
+- [WebPage link]: http://darsh510.github.io/IREPROJ/
+- YouTube video link-
+[![Reasoning Over Knowledge Base - Paper Gothrough](https://www.youtube.com/watch?edit=vd&v=_fCuyWF4vA8)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)

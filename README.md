@@ -18,6 +18,6 @@ The NTN replaces a standard linear neural network layer with a bilinear tensor l
 The final accuracy is based on how many triplets are classified correctly. 
 For results and stepwise processing follow the links below:-
 
-- [![Presentation link](http://www.slideshare.net/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302)]()
-- [![WebPage link](http://darsh510.github.io/IREPROJ/)]()
-- [![YouTube video link](https://www.youtube.com/watch?edit=vd&v=_fCuyWF4vA8)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+- [Presentation link](http://www.slideshare.net/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302)
+- [WebPage link](http://darsh510.github.io/IREPROJ/)
+- [![YouTube video link](https://www.youtube.com/watch?v=s1lzOkC2lxU)](https://www.youtube.com/watch?v=s1lzOkC2lxU)

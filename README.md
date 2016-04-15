@@ -20,4 +20,5 @@ For results and stepwise processing follow the links below:-
 
 - [Presentation link](http://www.slideshare.net/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302/ShubhamAgarwal211/reasoning-over-knowledge-base-60968302)
 - [WebPage link](http://darsh510.github.io/IREPROJ/)
+- [DropBox link](https://www.dropbox.com/sh/ealepl78ldi0joe/AAAwFkuTGqSKv6D6w5x4ENbva?dl=0)
 - [![YouTube video link](https://www.youtube.com/watch?v=s1lzOkC2lxU)](https://www.youtube.com/watch?v=s1lzOkC2lxU)
